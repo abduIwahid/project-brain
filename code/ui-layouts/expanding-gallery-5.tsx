@@ -1,0 +1,93 @@
+'use client';
+import { AnimatePresence, motion } from 'motion/react';
+import type React from 'react';
+import { type SetStateAction, useState } from 'react';
+
+// NOTE (filed copy): items data = the same 5 mountain entries used by
+// accordion-gallery-modal.tsx (Misty Mountain Majesty, Winter Wonderland,
+// Autumn Mountain Retreat, Tranquil Lake Reflection, Misty Mountain Peaks)
+// — not re-typed here. Component logic verbatim below.
+
+const article = {
+  hidden: { opacity: 0, y: 20 },
+  show: {
+    opacity: 1,
+    y: 0,
+    transition: {
+      type: 'spring' as const,
+      stiffness: 100,
+      delayChildren: 0.2,
+      staggerChildren: 0.1, // Stagger duration for children
+    },
+  },
+};
+
+type item = {
+  id: number;
+  url: string;
+  title: string;
+  description: string;
+  tags?: string[];
+};
+interface GaleryProps {
+  items: item[];
+  setIndex: React.Dispatch<SetStateAction<number>>;
+  index: number | undefined;
+}
+function Gallery({ items, setIndex, index }: GaleryProps) {
+  return (
+    <div className='w-fit mx-auto gap-1 flex pb-20 pt-10 '>
+      {items.slice(0, 5).map((item: item, i: number) => {
+        return (
+          <motion.div
+            whileTap={{ scale: 0.95 }}
+            className={`rounded-xl relative ${
+              index === i ? 'w-[450px] ' : 'w-[50px]'
+            } h-[400px] shrink-0  transition-[width] ease-in-linear duration-500 origin-center  `}
+            key={item.id ?? item.title}
+            onClick={() => {
+              setIndex(i);
+            }}
+            onMouseEnter={() => {
+              setIndex(i);
+            }}
+          >
+            <motion.img
+              src={item?.url}
+              className={`${
+                index === i ? 'cursor-default' : 'cursor-pointer'
+              } w-full rounded-xl  h-full object-cover `}
+            />
+            <AnimatePresence mode='wait'>
+              {index === i && (
+                <motion.article
+                  variants={article}
+                  initial='hidden'
+                  animate='show'
+                  className='absolute flex rounded-xl  flex-col justify-end h-full top-0 p-3 space-y-2 overflow-hidden bg-linear-to-t dark:from-neutral-900/60 from-neutral-100/60  from-20% to-transparent to-80% '
+                >
+                  <motion.h1 variants={article} className='text-2xl font-semibold'>
+                    {item?.title}
+                  </motion.h1>
+                  <motion.p variants={article} className='leading-[120%]'>
+                    {item?.description}
+                  </motion.p>
+                </motion.article>
+              )}
+            </AnimatePresence>
+          </motion.div>
+        );
+      })}
+    </div>
+  );
+}
+
+export default function SingleLayout() {
+  const [index, setIndex] = useState(2);
+
+  return (
+    <div className='relative'>
+      <Gallery items={items} index={index} setIndex={setIndex} />
+    </div>
+  );
+}

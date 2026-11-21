@@ -1,0 +1,93 @@
+/* =====================================================================
+   Scroll effects — shipped on a production portfolio (Nov 2026)
+   Source: the portfolio's globals.css (reveal base + the scroll-effects
+   block), extracted verbatim. Chosen from a 10-effect preview set
+   (see 08-references, item #279): (1) 3D Card Zoom, (2) Line-by-line
+   Reveal. Transform-only, one-shot, reduced-motion safe.
+   Needs: a `.reveal` wrapper that gains `.is-visible` when scrolled
+   into view (see reveal.tsx in this folder), a `--ease-house` timing
+   variable, and `.project-card` / `.hg-mask` / `.hg-line` markup.
+   ===================================================================== */
+
+.reveal {
+  height: 100%;
+  opacity: 0;
+  transform: translateY(26px);
+  transition: opacity .6s ease, transform .6s cubic-bezier(.22, .61, .36, 1);
+}
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+.reveal > article {
+  height: 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
+
+/* ===== Scroll-effects round (2026-11-21) =======================
+   Approved from the 10-effect preview set (saved-references #279):
+   (1) 3D card zoom — project cards settle out of a slight 3D tilt
+   as their reveal fires, plus a gentle zoom on fine-pointer hover;
+   (2) line-by-line reveal — the two hero headline lines rise out
+   of masks, staggered. Transform-only and one-shot: no
+   scroll-linked drivers, nothing animating while idle. */
+.reveal .project-card {
+  transform: perspective(1100px) rotateX(9deg) translateY(16px) scale(.94);
+  transition: transform .85s var(--ease-house), border-color .3s var(--ease-house), box-shadow .35s var(--ease-house);
+}
+
+.reveal.is-visible .project-card {
+  transform: perspective(1100px) rotateX(0deg) translateY(0) scale(1);
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .reveal.is-visible .project-card:hover {
+    transform: perspective(1100px) rotateX(0deg) translateY(-4px) scale(1.012);
+  }
+}
+
+.hg-mask {
+  display: block;
+  overflow: hidden;
+  padding-bottom: .14em;
+  margin-bottom: -.14em;
+}
+
+.hg-mask .hg-line {
+  animation: hg-rise .9s var(--ease-house) both;
+}
+
+.hg-mask.hg-d2 .hg-line {
+  animation-delay: .16s;
+}
+
+@keyframes hg-rise {
+  from { transform: translateY(112%); }
+  to { transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal .project-card {
+    transform: none;
+    transition: none;
+  }
+
+  .hg-mask .hg-line {
+    animation: none;
+  }
+}
+
+@media print {
+  .hg-mask .hg-line {
+    animation: none;
+  }
+}

@@ -61,6 +61,9 @@ Every folder below also has **its own detailed README** — what each file is, w
 - `my-stack.md` — the owner's actual stack (languages, ML, web, DevOps)
 - `future-projects.md` — the idea backlog
 
+### `code/` — actual code
+Real, reusable code: the UI Layouts component collection (61 files), a shipped site's full design system + planning engine + service worker, the stdlib-Python agent system, shipped scroll-effect CSS, and a complete vanilla mini-app. Each piece carries its provenance and verdicts — see `code/README.md`.
+
 ### `projects/` — per-project brains
 27 project records (WhyRisk healthcare ML, the portfolio, Study Hub, Plan Banao, five free-API mini-apps, and more): what was built, the decisions, the defects found, and the lessons — the raw material most of the general files above were distilled from.
 

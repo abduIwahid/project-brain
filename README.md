@@ -4,6 +4,8 @@
 
 Maintained by [Abdul Wahid](https://github.com/abduIwahid) (AI/ML developer) together with his AI agent. It started as the private "brain" that powered a portfolio site, a healthcare ML product, a class resource hub used by a whole cohort, and a hackathon-winning-calibre agent system. It is now public so anyone can build with it.
 
+Every folder below also has **its own detailed README** — what each file is, when to use it, and (for prompts) exactly how to use it.
+
 > **How to use this repo:** give it to your AI coding agent (or read it yourself) before starting a project. Start with the Project Brain prompt in `07-prompts/`, design with `01-design-system/`, pick tools from `05-tools/`, and don't call anything done until it passes `09-process/`.
 
 ---

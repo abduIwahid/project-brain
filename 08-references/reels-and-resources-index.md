@@ -1,0 +1,301 @@
+# Reels & Resources — Index
+
+Every filed reference in the order it appears in the archive (groups are mostly newest-first). Full text: `saved-references-part-*.md` in this folder.
+
+**295 indexed entries.**
+
+- brag — turn a project into a launch video, from the codebase (via @v.i.s.h.ai)
+- Portfolio hero inspiration — @echo__builds, "I hate boring Portfolio Websites" (Instagram reel)
+- Sileo — free, open-source React toast library (via @vibecodeshub)
+- Website discoverability — @oruim.tech, "Built a website? 5 must-dos" (Instagram reel)
+- 5 Hero Styles to Try Instead — @ose.builds (Instagram reel)
+- Split
+- Full-Bleed
+- Orbit
+- Gallery
+- Wordmark
+- Vibe Coding collection — bulk save from Abdul Wahid's Instagram (2026-10-23)
+- WA-AKG — open-source WhatsApp API gateway
+- Free WhatsApp AI chatbot via Evolution API
+- UI vs UX carousel
+- After buying your app domain — 3 steps
+- Website performance overhaul prompt
+- 10 UI colour combos to steal
+- 6 gatekeeper files before vibe-coding an app
+- Design.md Generator — context.dev
+- Basics of Typography — pick the font type by the feeling
+- Getting cited in Google AI Overviews
+- React Doctor — automated React code review
+- AI-design "tells" — the patterns that make a site look AI-generated
+- 4 tools to make a site look premium (2 visible)
+- "Your app isn't real yet" — 19-point production checklist
+- Pre-launch legal-compliance checklist (20 items)
+- 9 things to do after your website is live
+- Ruko — free animated component library
+- "20 more things to add to your website" — Pt. 3
+- Kitchen — UI components that feel like physical objects
+- Security checklist for AI-built websites
+- Pair colours intentionally — named duos & trios
+- Hero-section anatomy — from wireframe to premium
+- All-breakpoints-at-once responsive testing
+- Colour theory — palettes chosen by mood, not at random
+- Mobile navigation patterns — pick the one that fits the product
+- Four UI visual styles, and when each fits
+- Mobile bottom-navigation ideas
+- Deploy a full-stack app for $0
+- 5 things that make a vibe-coded app look professional
+- Railway — free backend hosting in about a minute
+- 6 markdown files before any vibe-coded project
+- 11-point pre-publish audit for vibe-coded sites
+- One prompt to scrub the "AI-made" look before launch
+- 5 must-have Claude Code / Codex plugins
+- Floto — AI design audits for your live site
+- Free full-stack / SaaS stack for low-budget projects
+- Hackathon AI-tool stack (meme reel)
+- Add a data-analysis skill to Claude from its Discover marketplace
+- Mobile View — test responsive designs on many devices at once
+- M3E Canvas — design the UI visually, then hand the AI a prompt
+- Check mobile layout with Chrome DevTools' device toolbar
+- anime.js — lightweight JavaScript animation engine
+- Shadcnblocks — shadcn/ui blocks inside VS Code
+- 19 things to ask your AI to add to your website
+- 20 hidden giveaways that a site was vibe-coded
+- 10 UI ideas to steal for your next project (Pt. 1)
+- Dark UI mistakes to avoid
+- Free domain for your project — DigitalPlat FreeDomain
+- Junior vs senior UI colour skills
+- The correct ORDER for vibe-coding an app
+- create-arun-backend — MERN backend starter kit
+- Floto audit loop — build → audit → fix → re-audit
+- SaveWeb2ZIP — download a site's frontend as a ZIP
+- Famous logos and the fonts behind them
+- "Your vibe-coded app will break easily"
+- Reticle — verify what your AI-built app actually did
+- 3 UI libraries to make AI websites feel premium
+- Flowbite — ready-made Tailwind components
+- Instagram analytics dashboard via Claude + Apify
+- 6 ready 3-colour palettes (light / mid / dark)
+- Colour combos Pt. 9 — vivid accent + dark neutral
+- Niche websites for vibe coding
+- Free hosting + domain platforms for developers
+- 20 things to fix in AI-generated UI
+- Security checks for your AI agent
+- The shadow effect — never a plain white glow
+- 12 AI-design resources worth bookmarking
+- WhatsApp chatbot without the Meta API — Pt. 1
+- Collection index by theme (added 2026-10-23 — use this to find items fast)
+- Design-canvas kinetic-type intro reel — format study
+- Batch — 2026-10-23 late evening (items 72+)
+- https://www.instagram.com/reel/Db51gDbhONj/ — Reel (creator unavailable logged-out)
+- https://www.instagram.com/p/Dd3w1JdlH8b/ — Carousel, 4 slides (creator unavailable logged-out)
+- https://www.instagram.com/reel/DbfG6fuPE9y/ — Reel (creator unavailable logged-out)
+- https://www.instagram.com/reel/De1tiaNNapd/ — Reel (creator unavailable logged-out)
+- https://www.instagram.com/reel/Dd5zen8MKJ_/ — Reel (creator unavailable logged-out, thumbnail-verified)
+- https://www.instagram.com/reel/DZV2WtitBgQ/ — Reel (creator unavailable logged-out, thumbnail-verified)
+- https://www.instagram.com/p/DewIZP6RDgk/ — Post — EXTRACTION FAILED
+- https://www.instagram.com/reel/Dezcc0pThaP/ — Reel, @thatguycym
+- https://www.instagram.com/reel/De1oT0eKnl2/ — Reel (creator unavailable logged-out, thumbnail-verified)
+- https://www.instagram.com/reel/DcCoWjpzkWC/ — Reel (creator unavailable logged-out, thumbnail-verified)
+- Why he stopped using Supabase (for some projects)
+- Comment-gated Figma resource for developers
+- Don't hand-roll your startup's login — free auth exists
+- libraries.dev — package/library discovery site
+- Add payments to a website in 5 steps — Razorpay setup
+- Stop paying Vercel — host apps free on your own server
+- Convert any logo to SVG vector free in ~15 seconds
+- awesome-llm-apps — 100+ open-source LLM app templates
+- 3 free UI libraries — "don't build another website"
+- 12 web page layout types — vocabulary for agentic coding
+- 3 minimalist UI color palettes
+- Monochrome color palettes — 9 five-shade ramps
+- ECC — agent harness pack for Claude
+- 5-step file-upload microinteraction
+- "18 signs a website was vibe-coded with AI"
+- DeepSeek Search & Fetch API free until 1 Nov 2026
+- public-apis — a collective list of free APIs
+- awesome-freellm-apis — directory of free LLM APIs
+- Oracle Cloud Always Free — a real free-forever VPS (2 OCPU / 12 GB ARM)
+- "Where to find free API keys — models for free"
+- Unidentified reel — content not extractable logged-out
+- "Why does a cheap site feel cheap?" — uniform animation timing
+- Top 5 Slider/Carousel components — "Thinking Gods" library
+- Designing better empty states — before/after
+- Aesthetic-Usability Effect — "Design with Rakhi" UX Challenge, Day 11/45
+- "Building with Good UX" — Part 3
+- Figma Components — Part 5
+- Can you tell two near-identical key sounds apart — E vs R "just by sound?"
+- Publish your site for $0 a month — GitHub + Docker + Cloudflare
+- "Deployment Reality" — Vikas Logs EP-06 devlog
+- "Steal 100 users from your competitor" — mine the giant's 1-star reviews
+- 9 GitHub repos that replace $1,000s of paid software
+- Monochrome lavender-grey palette ramp, 6 shades
+- Essential UI/UX micro tips you should know
+- Dashboard V18 — glossy 3D dashboard UI showcase
+- Font Pairing — 12 heading + body combinations
+- What is the 60-30-10 rule in design?
+- Stop using 50/50 splits — use 1.618 (the 62/38 rule)
+- Script Fonts
+- Server Cost (talking-head explainer)
+- hallmark — anti-AI-slop design skill (Nutlope)
+- Supabase vs Firebase — what's the difference?
+- Graphic Design Size Cheat Sheet
+- Border Radius Tips — the nested-corner rule
+- Website vs App — pehle kya? (which first?)
+- Before UX → After UX: one grouped list beats many floating cards
+- Portfolio-worth case study ideas for UI/UX Designers
+- Dashboard V5 — e-commerce admin dashboard (orange)
+- "Most Expensive App Component" — Figma Component Series 01/06
+- 6 UI tips that make designs look pro
+- Best Fonts for Logos
+- Font Pairing sheet — DUPLICATE of item 117
+- Complete SEO, AEO and GEO Notes
+- Dashboard — "FlowAI" AI-workflow SaaS (clean minimal)
+- 5 ways to make your UX Writing better
+- Typography — a basic guide for designers on one page
+- 5 UX/UI documents you need before you vibe code any app
+- UI & Motion Tools
+- CMYK Color in Graphic Design
+- "This repository keeps your website SAFE!"
+- Hick's Law — too many options kills apps
+- Reading Patterns — how people scan a page
+- Reel — content not extractable (blank cover)
+- 6 Different UI Menus
+- Designer Toolkit — everything in one cheat sheet
+- 10 more things to do after your website goes live
+- 15 Ways to Improve a Bad Design
+- The UX process: expectation vs reality
+- Securitymaxxing for your vibe coded app (Part 3)
+- Performance Checklist — don't launch your app without these
+- How to build for GOOD UX — Part 2
+- Design Rule in 10 Seconds
+- Color Psychology & Pairing
+- Favorite UX laws pt. 3
+- Favorite UX Laws! — Aesthetic-Usability Effect
+- Spacing Cheat Sheet for Designers
+- Subdomain blog setup — kya hota hai, kyun aur kaise (CMSKite)
+- Frontend Day 03 — CSS units as game characters
+- The best copywriting frameworks for high-converting content
+- Cloudflare — Ship an app for zero dollars
+- Your buttons look cheap? — the inset box-shadow fix
+- Font Anatomy — the complete chart
+- Mistakes you should avoid as a Vibe Coder
+- Case study headlines, before vs after
+- Micro Interactions
+- Why does your popup just snap in? (Motion N° 03)
+- UI UX Pro Max — design-intelligence skill
+- REA — Reverse Engineer Anything
+- The Agent Development Kit — five layers, one stack
+- Font Weight Guide
+- 15 Backend Concepts, explained visually
+- 10 UI Ideas to Steal for Your Next Project — Part 1
+- 20 UI tips to send to Claude for better design (Niche edition)
+- Impeccable — design language for AI coding agents
+- Avi Vashishta's GitHub profile — terminal-style, self-generating profile README
+- CSS Responsive Layout Tricks
+- How to Audit a Website — Step by Step
+- Use These Color Combos to Make Your Creative Work Go Viral
+- "SEO is easy!!" — reel
+- UX Laws — "Desi Way", Ep. 02
+- "Just Bought a Domain? Do These 3 First"
+- Logo Tests — "Most logos fail two of these"
+- phantom-ui — structure-aware skeleton loader
+- List It — React Native list manager with tactile micro-interactions
+- Automatic App Updates — explained under 2 mins
+- WhatsApp your own website link to yourself
+- Reel — topic not extractable logged-out
+- POV: JARVIS Calls You With A Serious Problem
+- 10 Months of Building JARVIS, Shown in One Minute — Part 1
+- POV: JARVIS Builds a Website in 30 Seconds
+- The Golden JARVIS Core Materializing in a Real Room
+- POV: Real-life JARVIS Activated
+- J.A.R.V.I.S vs F.R.I.D.A.Y — "This Is FRIDAY" explainer by @nerd_diff
+- Tony Stark "HURTS MORE!" meme edit
+- Iron Man clip — "I don't want this winding up in the wrong hands"
+- Favourite Health & Wellness Fonts for CPG Packaging — slide 3: Wayfinder CF
+- VitalAI — Medical Website Template (Onix Theme)
+- Vague → Polished: "Detailed prompt = polished design"
+- "Evohomes" logomark — single-letter logo with a leaf cut, presented as a 2×2 variant grid
+- "Vibe Coders Don't Know These Mobile App Terms"
+- "Every AI-Coded Website Ever" — satire of the generic AI-website look
+- UI Audit — "Before Polish, Audit First!" (Figma Design System Series, Part 6)
+- "15 tells your app was vibe coded"
+- @zrk.pptx — "How to structure your Creative Portfolio" (12-slide carousel)
+- @frontendcharm (reposted by @webdesignuniversity) — "Smooth Mouse Cursor Animation"
+- UI Layouts — Scroll Text Marquee component (docs pasted by Abdul Wahid)
+- UI Layouts — Stacking Card component (docs pasted by Abdul Wahid)
+- UI Layouts — Smooth Scroll (Lenis) snippet pasted by Abdul Wahid
+- UI Layouts — Infinity Band Scroll (code pasted by Abdul Wahid)
+- UI Layouts — Expanding hover button (code pasted by Abdul Wahid)
+- UI Layouts / NextCodez — animated footer with giant rising wordmark (code pasted by Abdul Wahid)
+- UI Layouts — Responsive header with mega-drawer (code pasted by Abdul Wahid)
+- UI Layouts — Liquid Glass sidebar card (code pasted by Abdul Wahid)
+- UI Layouts — Brand logo marquee (code pasted by Abdul Wahid)
+- UI Layouts — Image Ripple Effect (WebGL, docs + code pasted by Abdul Wahid)
+- Abdul Wahid's blanket instruction on the UI Layouts library (2 Nov 2026, 22:41)
+- Interactive Dots canvas background (code pasted by Abdul Wahid; source not stated)
+- Cursify — Smooth Cursor Follower (code pasted by Abdul Wahid)
+- Fluid Cursor (wrapper component pasted by Abdul Wahid; engine hook `use-FluidCursor` not included)
+- "10 Mini-SaaS one person can build and run" (@sambutlerai; caption-verified via Abdul Wahid's screenshot, 3 Nov 2026)
+- VerticalBarsNoise (code pasted by Abdul Wahid, UI Layouts)
+- DotParticleCanvas (code pasted by Abdul Wahid, UI Layouts)
+- NeuralNoise wrapper (code pasted by Abdul Wahid)
+- CharacterCursor (code pasted by Abdul Wahid, Cursify cursor-effects family)
+- BlobCursor (code pasted by Abdul Wahid, react-spring goo cursor)
+- TextIconCursor (code pasted by Abdul Wahid)
+- GenieEffect — macOS dock + genie window animation (code pasted by Abdul Wahid, UI Layouts)
+- Liquid Glass sidebar menu (code pasted by Abdul Wahid; he also pasted its `npx shadcn@latest add https://ui-layouts.com/r/liquid-glass-sidebar-menu` install line)
+- SpotlightCard (code pasted by Abdul Wahid, UI Layouts)
+- Swapy draggable bento grid (code pasted by Abdul Wahid, UI Layouts)
+- DragItems — drag-reorder list (code pasted by Abdul Wahid, UI Layouts; motion/react Reorder)
+- TimelineAnimation catalogue page "Others1" (pasted by Abdul Wahid)
+- Scroll-reveal demos — ScrollAnimation, ScrollTextAnimation, TextRandomized (pasted by Abdul Wahid)
+- ImageMouseTrail (pasted by Abdul Wahid)
+- Scroll-driven family — HorizontalScroll, Larose stacking cards, two sticky-scroll demos (pasted by Abdul Wahid)
+- Globe + Sparkles heroes (3 wrappers pasted by Abdul Wahid)
+- Testimonial Marquee (pasted by Abdul Wahid)
+- Velocity marquee demo — ScrollBaseAnimation (pasted by Abdul Wahid)
+- Terminal loader family — TypeWritter demo + IntroSequence (pasted by Abdul Wahid)
+- Modal family — MediaModal demo, LinearModal demo, Framer dialog demo (pasted by Abdul Wahid)
+- Gallery family — Accordion gallery modal + UnsplashGrid (pasted by Abdul Wahid)
+- Drawer family — Responsive drawer, Directional drawer, Motion drawer (pasted by Abdul Wahid)
+- Form primitives — Phone input, Smart datetime input, MultiSelect demos (pasted by Abdul Wahid)
+- Docs-only pages — Creative Buttons, Motion Number, Animated Range Slider, Password Input, File Upload, Grid Showcase (pasted by Abdul Wahid)
+- WebGL family — Image Ripple Effect (full code), noise Blob, Mesh Gradients page (pasted by Abdul Wahid)
+- Buy Me Millions Coffee (docs page pasted by Abdul Wahid)
+- Hover Cards (docs page pasted by Abdul Wahid)
+- Embla Carousel demo (pasted by Abdul Wahid)
+- Embla Carousel family — 12 usage variants (pasted by Abdul Wahid)
+- Framer (motion) carousels + drag filmstrip (pasted by Abdul Wahid)
+- ImageTabs + FAQ accordions + expanding gallery-5 (pasted by Abdul Wahid)
+- MagnifiedDoc — macOS magnification dock (pasted by Abdul Wahid)
+- Code-display set — CodeBlock demo, TreeCodeViewer demo, CodeTabsMdx (pasted by Abdul Wahid)
+- BlurVignette video frame (pasted by Abdul Wahid)
+- BlurVignette card variant (pasted by Abdul Wahid)
+- Custom email signatures (esignature) for professional emails
+- Landing-page design breakdown, "behind the glass" — Relay (creator not identifiable from the cover; cover-verified)
+- "Agents at Work" — a page that builds itself (Avi Vashishta, blog build-breakdown; full text read)
+- "5 UI libraries that make your site look expensive" (@louis_rlee; caption + full video verified)
+- "Don't ship your UI before designing these 10 states" (@strategyfox; caption + full video verified)
+- Responsive bento grid layout (@davidm_ai; caption + full video verified)
+- "Your Brand. Your Digital Card." — custom digital business cards ad (creator not recorded; cover-verified only)
+- GTA VI clipping income claim — "$500/day, $3,500/week" (creator not identifiable from cover; cover-verified only)
+- "20 Design Terms You Should Know (in under 30 seconds)" — rapid design-glossary reel (creator not identifiable from cover; cover-verified only)
+- "The Startup Graveyard" — dead-startups database (creator not identifiable from cover; cover-verified only)
+- "Your portfolio looks junior" — portfolio-critique carousel (@uxbrainy; cover-verified)
+- "How to Fix a Boring Design" — design-fix carousel (GG Design Hub; cover-verified)
+- "4 Amazing Websites for understanding Color Theory" (@design.with.sanskriti; frame- and caption-verified via browser)
+- Google HR ka FORMULA — Laszlo Bock's XYZ resume formula (@ezsnippet / Neeraj Walia; frame- and caption-verified via browser)
+- "6 Website Animations That Instantly Upgrade Your Site" (@designbyshiv._ / Shivanand; frame- and caption-verified via browser)
+- "Create Viral Animated Documentaries with Claude" (@scalewithluv / Luv Kapruwan; frame- and caption-verified via browser)
+- "You don't need a better model. You need these 10 repos." — Claude/agent skills list (Altin @CodeWithAltin on X; screenshot supplied by Abdul Wahid, all 10 repos verified via GitHub API)
+- "How to deploy backend for free?" — Render free deploy + UptimeRobot keep-awake (@mehnaz.codes / Mehnaz Sheikh; frame- and caption-verified via browser)
+- "Hackathon Toolkit: 6 AI Tools to Guarantee a Win!" (@underratedcoder, verified account; name "Kartik Rai" from the page's alt text on his other posts, not the reel header; audio- and caption-verified via browser)
+- "viral Website Prompts — Part 2" — five finished websites written out as full AI prompts on getlayers.ai (@textura.us / Textura, verified; caption- and slide-verified via browser, all 9 slides read)
+- "Type of animation and transition you need to know as designer/developer" — a spoken + on-screen list of 16 animation types (@sohail_systems, verified; audio- and caption-verified via browser, list corroborated card-by-card)
+- "Here are my personal Business cards" — a brand designer making his own business cards in Illustrator (@brandesignerohan / Rohan Sharma; caption-verified via browser, audio checked — music only, no speech; on-screen text + sampled frames via browser)
+- "10 Scroll Effects" — ten named scroll effects demoed on ten real sites (@crownzdesigns / Crownz, "UI/UX Designer & AI Creator"; frame- and caption-verified via browser, full watch at Abdul Wahid's explicit order — audio is music only)
+- "19 Principles of UX & Animation (In under 20 seconds)" (@bendoescareer, verified; audio- and caption-verified via browser)
+- "20 niche UI tricks to fix an AI slop website" (@murphmaxxing / Aidan Murphy, verified; audio- and caption-verified via browser)
+- "5 hero sections, 5 fixes" — five hero-section problems, each with a one-line fix (@ayzz.thedesigner / Abdul Mutakabar Ayaz, UI/UX Designer; audio- and caption-verified via browser)
+- "How to win your first hackathon" — five preparation steps from a 20+ hackathon winner (@imrayng / Raymond Loong Ng, verified; audio- and caption-verified via browser)
+- "4 Ways to Go Responsive" — one-graphic summary of the four core responsive techniques (@darkcss77, verified; screenshot-verified — image sent by Abdul Wahid, no link)

@@ -14,6 +14,7 @@
 | `copywriting-frameworks.md` | Headline and copy formulas (including the case-study headline: Result + Number + Who it helped) | When writing hero copy, section headings, case studies |
 | `responsive-rules.md` | The fluid-by-default system: clamp(), auto-fit grids, and the width/zoom ship matrix | For every layout; the matrix is a ship gate, not a suggestion |
 | `aurora-template.md` | **The highest-priority frontend reference** (standing rule, 2026-11-23): ThemeWagon's Aurora distilled — design tokens, landing structure, login-page layout | **Default starting point for any new project's frontend**, unless the owner picks otherwise |
+| `aurora-library.md` | The all-pages Aurora capture distilled: 131 routes in 16 sections, capture status + one-line structure summary per page, baseline/dark tokens | When rebuilding a specific Aurora page (dashboard, app, auth) — find its skeleton here first |
 | `grunge-template.md` | A monochrome giant-type brutalist portfolio template, distilled to tokens + structure | The saved alternative when a bold type-led look is wanted |
 | `watermelon-landing-template.md` | A dark technical landing system + how it was adapted into WhyRisk (design yes, its colours no) | When adapting any supplied template: take the design + motion, keep the project's own tokens |
 | `animation-and-motion.md` | Animation vocabulary (16 types), motion principles, and the 10 scroll effects with verdicts | When a surface needs motion — pick from the vocabulary, respect the cautions |

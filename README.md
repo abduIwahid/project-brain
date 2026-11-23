@@ -18,6 +18,7 @@ Every folder below also has **its own detailed README** — what each file is, w
 | `ux-laws.md` | The 20 classic UX laws used as a standing checklist on every build |
 | `frontend-preferences.md` | The house style: bold editorial minimal, tokens-first, and the full anti-AI-tell list (no purple gradients, no badge-above-headline, no untouched component defaults…) |
 | `aurora-template.md` | **The highest-priority frontend reference**: ThemeWagon's Aurora (React + MUI) distilled — tokens, landing structure, browser-observed login layout |
+| `aurora-library.md` | The all-pages Aurora index distilled: 131 routes in 16 sections with capture status and a one-line structure summary per page |
 | `grunge-template.md` | The saved alternative: a monochrome, giant-type brutalist portfolio template, distilled to tokens + structure |
 | `watermelon-landing-template.md` | A dark technical landing system (#101010, mono eyebrows, corner accents) + the rules for adapting a template's design without its colours |
 | `color-palettes.md` | Proven palettes with tokens |

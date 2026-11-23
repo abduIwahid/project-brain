@@ -4,6 +4,7 @@
 
 - **Source:** https://aurora.themewagon.com/pages/landing/homepage — "Aurora", a SaaS/web-app landing theme distributed by ThemeWagon, built on React + MUI (the page ships the full MUI component set — Accordion, Alert, Autocomplete, Avatar, Badge, Breadcrumbs, Button, Card…).
 - **Captures:** this note is the published distillation. The raw captures (full styleguide JSON, rendered HTML) and a complete all-pages Aurora library are kept privately alongside the owner's local brain — a commercial template's rendered output is not redistributed here; everything needed to *rebuild* the look in your own code is in the tokens and notes below.
+- **Full page library:** `aurora-library.md` (this folder) distils the all-pages capture — 131 routes in 16 sections, with capture status and a one-line structure summary per page.
 
 ## The look in one line
 Clean corporate SaaS: white background, one friendly blue accent, soft borders and a whisper of shadow, rounded 8px corners, Plus Jakarta Sans everywhere — the opposite pole from Grunge's raw monochrome (`grunge-template.md`).

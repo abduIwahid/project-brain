@@ -35,3 +35,21 @@ Abdul Wahid's order (2026-11-21, verbatim intent): this audit system applies to 
 - Pre-ship gate + consistency sweep + responsiveness rule (AGENTS.md) remain in force.
 - Public-facing copy: propose wording first, ship on approval. Everything else: do it, report after.
 - Previews as images/GIFs in chat, never links only.
+
+## Vibe-code security sweep — the 14 things a hacker tries first (from reel #286, @ryannaghib, 2026-11-23)
+
+Run this as an extra phase on any app with auth, payments, uploads or AI — most of Abdul Wahid's apps are AI-assisted builds, so these are the exact holes to check before calling a project production-ready:
+1. **/admin route** — is an admin panel reachable/unguarded by URL alone? Server-side role check on every admin route.
+2. **ID in the URL (IDOR)** — change `?id=` / path id to someone else's; the server must verify ownership, not just login.
+3. **API key in the browser** — no secret keys in client code, ever; proxy through the server + env vars (the MTM Groq-key lesson).
+4. **Edit the price** — prices computed server-side; client-sent amounts are never trusted.
+5. **Order −1 items** — quantity validated server-side (positive integers, stock limits).
+6. **Fake a payment** — payment success verified with the provider server-side (webhook/signature), never from a client redirect.
+7. **Redeem 100 times** — coupons/codes are single-use, enforced in the DB, not the UI.
+8. **Admin at signup** — role fields in signup payloads ignored server-side; roles assigned only by admins/defaults.
+9. **Guess the login code** — OTPs rate-limited, short-lived, attempt-capped.
+10. **Prompt-inject the AI** — user input to an LLM is untrusted; instructions hierarchy + output checks on AI features.
+11. **Script in the username (XSS)** — all user text escaped/sanitised on render, everywhere it appears.
+12. **Upload a non-photo** — file type validated by content (magic bytes), not extension; uploads never execute; size capped.
+13. **Find your ENV** — .env never committed; repos scanned for secrets; keys rotated if ever exposed.
+14. **Type a query into your database (SQLi)** — parameterised queries/ORM only; no string-built SQL.

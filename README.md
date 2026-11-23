@@ -17,6 +17,9 @@ Every folder below also has **its own detailed README** — what each file is, w
 |---|---|
 | `ux-laws.md` | The 20 classic UX laws used as a standing checklist on every build |
 | `frontend-preferences.md` | The house style: bold editorial minimal, tokens-first, and the full anti-AI-tell list (no purple gradients, no badge-above-headline, no untouched component defaults…) |
+| `aurora-template.md` | **The highest-priority frontend reference**: ThemeWagon's Aurora (React + MUI) distilled — tokens, landing structure, browser-observed login layout |
+| `grunge-template.md` | The saved alternative: a monochrome, giant-type brutalist portfolio template, distilled to tokens + structure |
+| `watermelon-landing-template.md` | A dark technical landing system (#101010, mono eyebrows, corner accents) + the rules for adapting a template's design without its colours |
 | `color-palettes.md` | Proven palettes with tokens |
 | `layout-vocabulary.md` | Named layout patterns so designs can be discussed precisely |
 | `ui-layouts-library.md` | A large ledger of components & effects (from ui-layouts.com) with verdicts: adopt, adapt, or rejected — and why |
@@ -37,6 +40,7 @@ Every folder below also has **its own detailed README** — what each file is, w
 - `tools-by-job.md` — every tool categorised: design, frontend, backend, hosting, database, SEO/audit, domains, learning
 - `agent-skills-toolbox.md` — the AI-agent toolbox (Ponytail, Hallmark, Impeccable, Graphify, Scrapling, Humanizer, Diagram Design, last30days, REA, /taste) with verified repos
 - `free-stack.md` — the free-tier stack the projects actually run on
+- `devops-toolchain.md` — the 12-tool DevOps pipeline map (Git → CI → containers → IaC → observability) with a skills-gap learning path
 
 ### `06-agents/` — building agent systems
 `agent-playbook.md` — the architecture that survives judging: *the model reads, code decides*; fact bases with supersession, transactional updates, honest traces, token discipline — plus what the winning hackathon team did better, and the winner's checklist.
@@ -47,7 +51,7 @@ Every folder below also has **its own detailed README** — what each file is, w
 - `mega-prompt-method.md` — describe the finished site as one detailed spec, then build to it
 
 ### `08-references/` — everything that was ever sent and filed
-- `reels-and-resources-index.md` — 295 indexed reels, posts and resources
+- `reels-and-resources-index.md` — 301 indexed reels, posts and resources
 - `saved-references-part-1..5.md` — the full archive: design reels, tools, tutorials, audits — each with creator, link, key points, and an honest evidence note (what was verified vs. what is a creator's claim)
 - `websites-and-resources.md` — the standing websites: design libraries, free domains, free hosting, free learning
 
@@ -65,7 +69,7 @@ Every folder below also has **its own detailed README** — what each file is, w
 Real, reusable code: the UI Layouts component collection (61 files), a shipped site's full design system + planning engine + service worker, the stdlib-Python agent system, shipped scroll-effect CSS, and a complete vanilla mini-app. Each piece carries its provenance and verdicts — see `code/README.md`.
 
 ### `projects/` — per-project brains
-27 project records (WhyRisk healthcare ML, the portfolio, Study Hub, Plan Banao, five free-API mini-apps, and more): what was built, the decisions, the defects found, and the lessons — the raw material most of the general files above were distilled from.
+29 project records (WhyRisk healthcare ML, the portfolio, Study Hub, Plan Banao, a face + GPS attendance system, five free-API mini-apps, and more): what was built, the decisions, the defects found, and the lessons — the raw material most of the general files above were distilled from.
 
 ---
 

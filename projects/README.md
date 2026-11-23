@@ -1,6 +1,6 @@
 # Projects — the per-project brains
 
-**What this folder is:** the working record of 27 real projects — what was built, the decisions taken, the defects found, and the lessons kept. The general files in this repo (design system, toolkits, process) were distilled from these records. Sanitized for sharing: no credentials, no personal data — knowledge only.
+**What this folder is:** the working record of 29 real projects — what was built, the decisions taken, the defects found, and the lessons kept. The general files in this repo (design system, toolkits, process) were distilled from these records. Sanitized for sharing: no credentials, no personal data — knowledge only.
 
 ## How to use this folder
 - **Resuming a project?** Read its file first — it holds the current state, the open items and the traps already discovered.
@@ -15,6 +15,8 @@
 | `study-hub.md` | **Study Hub** — a class resource hub for a whole university cohort (static, fast, maintained solo) |
 | `mtm-hackathon-26.md` | **Plan Banao** — the MTM Hackathon '26 agent system + demo site; architecture, judging analysis, and the winner benchmark |
 | `smart-doctor-connect.md` | Smart Doctor Connect — the earlier (V1) hackathon healthcare project |
+| `face-attendance.md` | **Face Attendance System** — face-recognition + live-GPS anti-proxy attendance; server-decided matching, and the accuracy-aware GPS pattern that fixed indoor drift |
+| `anna-study-hub.md` | **Study Hub — Anna Edition** — a per-user AI study app planned for a marketplace builder program (own resources → summaries/quizzes/viva) |
 | `nearsend.md` | NearSend — peer-to-peer file sharing |
 | `predictly.md` | Predictly — Pakistani real-estate price prediction |
 | `churnex.md` | Churnex — customer churn prediction product |

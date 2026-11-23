@@ -5,6 +5,8 @@ A project's own file in `../projects/` overrides anything here for that project.
 
 ## Design language
 
+- **AURORA IS THE HIGHEST-PRIORITY FRONTEND REFERENCE (Abdul Wahid, 2026-11-23 — first set as the standing reference, then raised the same evening to highest priority):** when a new project's frontend starts, REMIND Abdul Wahid of Aurora and default to its system unless he picks otherwise — ThemeWagon's Aurora (React + MUI): clean SaaS look, white bg, soft-black text #1B2124, blue accent #3385F0, Plus Jakarta Sans, 8px radii, soft borders (#E5E7EB) + whisper shadow, rotating-word hero, trust strip, showcase cards. Full distillation: `aurora-template.md` in this folder (raw captures and a full all-pages library are kept privately, outside this public repo). Companion component source: **UI Layouts** (ui-layouts.com — see `ui-layouts-library.md`) — check it alongside Aurora for components/effects. Grunge (monochrome, giant Road Rage type) is the saved alternative — `grunge-template.md`.
+
 - **Bold, editorial, minimal.** Big display type, lots of air, restrained color.
 - **Typography:** Anton for display/headline work (uppercase, condensed) is his
   signature; a clean sans for body. Uppercase Anton section titles read as
@@ -330,3 +332,6 @@ No UI ships until these states are designed, not just the happy path:
 9. **Form validation** — flag the exact field, inline, with the fix.
 10. **Success** — confirm, reassure, then show what happens next.
 Applies to every project (WhyRisk, Study Hub, portfolio forms, hackathon builds).
+
+## "AI-slop tells" perception list (reel #285, @neorafay, 22 Nov 2026)
+One designer's viral checklist of surface signals that currently read as "AI-generated website" to design Instagram/Twitter: tags & pills, negative kerning, excessive italics, Instrument Serif, over-the-top detailed UI, overusing dividers, colour shades & opacities, containers with borders, overly detailed diagrams, redundant text, code breadcrumbs, section numbering, eyebrows, dithering, ASCII images, squircles, all-caps subtitles, periods in titles, gradient backgrounds. STATUS: perception reference only — NOT a house rule. Several items are Abdul Wahid's DELIBERATE design system (mono eyebrows + section numbering on the WhyRisk template landing, serif-italic accents on the portfolio). Use it to know how a choice may be read, never to auto-remove an approved device. Full entry: saved-references #285.

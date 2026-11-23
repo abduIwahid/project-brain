@@ -34,3 +34,14 @@ Hamburger = 3 equal lines (nav drawer). Kebab = 3 vertical dots
 3 centred lines shrinking downward (filter/sort). Stairs = 3 left-aligned
 lines shrinking downward (filter/sort). Candy Box = 3×3 dot grid (app
 launcher). Use the names in feedback and prompts so the pattern is exact.
+
+## Six "boring hero" alternatives (appsketch.ai, saved-references item 289, 2026-11-23)
+
+The default hero (headline + button left, product image right) works but nobody remembers it. Six named alternatives, each with its best-fit case:
+1. **Marquee Hero** — giant scrolling text behind/over a stack of photos. Best for: Gen Z brands, showing fresh drops.
+2. **Colour Switch Hero** — the whole page's colour changes with the selected product colour; size picker + add-to-bag live inside the hero. Best for: single-product stores with colour variants.
+3. **Stat Hero** — bold headline with a proof number up top (e.g. "+21%"). Best for: products where results are the main character (SaaS, tools, case-study-led).
+4. **Bold Type Hero** — oversized type + ONE image + a contrasting highlighted keyword. Best for: brands with a loud personality.
+5. **Wardrobe Hero** — products hang on a rail; scroll, tap, zoom. Best for: fashion lines with a limited catalogue.
+6. **Basic But Not Basic** — a dark, moody full-bleed photo with a huge headline on top. Best for: premium brands that sell on trust.
+Note for Abdul Wahid's sites: his portfolio hero is final (preview composition, 2026-11-22) and WhyRisk follows the template system — these are a menu for NEW projects (Face Attendance landing, future client work), not a reason to reopen settled heroes. The Stat Hero pattern is the closest fit for WhyRisk-style proof-led pages.

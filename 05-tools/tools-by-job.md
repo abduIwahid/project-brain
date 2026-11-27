@@ -40,5 +40,6 @@ The agent/AI toolbox (Ponytail, Hallmark, Impeccable, last30days, REA, Graphify,
 
 ## Learning
 - **NASA Open Science training** (science.nasa.gov/open-science/training) — free, certificated: Open Science Essentials (~2h) and Open Science 101 (~12h); FAIR data and reproducible research, directly useful for ML work.
+- **MiniMind** (github.com/jingyaogong/minimind, 72K stars) — train your own 64M-parameter LLM from scratch in ~2 hours, in plain PyTorch (pretraining, fine-tuning, LoRA, DPO, RL). The fastest honest way to learn what actually happens inside LLM training instead of only calling APIs — the right first step before any FYP that trains its own model. Sibling repos: minimind-v (65M VLM) and minimind-o (0.1B omni model).
 - **roadmap.sh** — public learning roadmaps for almost every stack role.
 - **free-for-dev** (github.com/ripienaar/free-for-dev) — the maintained index of free tiers for developers; check it before paying for anything.

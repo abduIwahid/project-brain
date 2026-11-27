@@ -2,7 +2,7 @@
 
 Every filed reference in the order it appears in the archive (groups are mostly newest-first). Full text: `saved-references-part-*.md` in this folder.
 
-**295 indexed entries.**
+**299 indexed entries.**
 
 - brag — turn a project into a launch video, from the codebase (via @v.i.s.h.ai)
 - Portfolio hero inspiration — @echo__builds, "I hate boring Portfolio Websites" (Instagram reel)
@@ -305,3 +305,7 @@ Every filed reference in the order it appears in the archive (groups are mostly 
 - Cloudflare Free Plan vs Vercel — "the free stack Vercel can't match" (@codewithnishant, verified; audio- and caption-verified via browser)
 - "Boring Hero Section" Alternatives, Part 2 — 6 hero designs (@appsketch.ai, verified; audio- and caption-verified via browser)
 - All Main DevOps Tools in 60 Seconds — the 12-tool chain (@codecraftpr0, verified; audio- and caption-verified via browser)
+- "20 Final Year Projects That Can Actually Get You Hired" — 20-repo project-list carousel (@code.akshat.in / Akshat Singh; cover-verified; screened for FYP, rejected — copy-grade list, no originality signal)
+- CafeFlow — free QR-ordering + restaurant-management platform, demoed end-to-end (@cafeflow.fun; page- and cover-verified; screened for FYP, rejected — live product, no ML core)
+- CafeFlow's own website — the live product site behind the CafeFlow reel (cafeflow.fun; homepage read in full; confirms the rejection verdict at the source)
+- AI Vehicle Damage Inspection as an FYP — Tchek / ALTO AI pitched as "the FYP we're missing" (@hammadcost; page- and cover-verified; banked as FYP Idea 16 "GariCheck" — Pakistani-market layer is the only original part)

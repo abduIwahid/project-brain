@@ -1,6 +1,6 @@
 # Projects — the per-project brains
 
-**What this folder is:** the working record of 29 real projects — what was built, the decisions taken, the defects found, and the lessons kept. The general files in this repo (design system, toolkits, process) were distilled from these records. Sanitized for sharing: no credentials, no personal data — knowledge only.
+**What this folder is:** the working record of 31 real projects — what was built, the decisions taken, the defects found, and the lessons kept. The general files in this repo (design system, toolkits, process) were distilled from these records. Sanitized for sharing: no credentials, no personal data — knowledge only.
 
 ## How to use this folder
 - **Resuming a project?** Read its file first — it holds the current state, the open items and the traps already discovered.
@@ -16,7 +16,9 @@
 | `mtm-hackathon-26.md` | **Plan Banao** — the MTM Hackathon '26 agent system + demo site; architecture, judging analysis, and the winner benchmark |
 | `smart-doctor-connect.md` | Smart Doctor Connect — the earlier (V1) hackathon healthcare project |
 | `face-attendance.md` | **Face Attendance System** — face-recognition + live-GPS anti-proxy attendance; server-decided matching, and the accuracy-aware GPS pattern that fixed indoor drift |
-| `anna-study-hub.md` | **Study Hub — Anna Edition** — a per-user AI study app planned for a marketplace builder program (own resources → summaries/quizzes/viva) |
+| `anna-study-hub.md` | **Study Hub — Anna Edition** — a per-user AI study app built for a marketplace builder program (own resources → summaries/quizzes/viva); Phases 0–3 done, publish target 29 Nov |
+| `fyp-ideas.md` | **FYP (Final Year Project)** — the 3-semester guide system: hard filters, the 4-question judging order, the idea bank's Top 4, and the official AIC498/AIC499 rules |
+| `restaurant-diet-expert.md` | **Restaurant Diet Expert (KRR neuro-symbolic project)** — DL predictions as symbolic facts over a 20–25-rule KB; two conflicting briefs, paper shortlist, Rice Disease as the #1 pick |
 | `nearsend.md` | NearSend — peer-to-peer file sharing |
 | `predictly.md` | Predictly — Pakistani real-estate price prediction |
 | `churnex.md` | Churnex — customer churn prediction product |

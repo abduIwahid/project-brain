@@ -5,7 +5,7 @@
 ## Files
 | File | What it is |
 |---|---|
-| `reels-and-resources-index.md` | The map: 301 indexed entries in archive order. **Search here first.** |
+| `reels-and-resources-index.md` | The map: 305 indexed entries in archive order. **Search here first.** |
 | `saved-references-part-1.md` … `part-5.md` | The full archive text, in order. Each entry carries its creator, link, key points, and relevance |
 | `websites-and-resources.md` | The standing websites: design libraries, free domains, free hosting, free learning, AI services — each with what it is actually for |
 

@@ -20,3 +20,11 @@ list when a new project starts (alongside the UI Layouts library).
 
 Status: none installed yet. Trial one at a time, on a real task, and record the
 verdict here before adopting it as standing kit.
+
+## New finds — weekly research, 27 Nov 2026 (vetted via GitHub API: real, reachable, actively maintained)
+
+| Repo | Stars (27 Nov 2026) | Verdict — what it is for |
+|---|---|---|
+| GoogleChrome/modern-web-guidance | 27K | **Official Chrome-team agent skills** that embed current web-platform best practices (incl. browser-compat data) into a coding agent — the frontend counterpart to the toolbox above; reach for it when the agent writes web code that must actually work in real browsers. |
+| VoltAgent/awesome-agent-skills | 38K | **The index, not another skill** — a curated collection of 1,000+ agent skills from official dev teams and the community (Claude Code, Codex, Gemini CLI, Cursor). Check here FIRST when a task needs a skill the table above doesn't cover, instead of installing one-off lists. |
+| MengTo/Skills | 8.5K | **Agent skills for designers and builders** (from DesignCode) — the design-flavoured end of the skills world; the one to try when the job is taste, layout and visual quality rather than plumbing. |

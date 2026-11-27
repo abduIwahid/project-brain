@@ -52,7 +52,7 @@ Every folder below also has **its own detailed README** — what each file is, w
 - `mega-prompt-method.md` — describe the finished site as one detailed spec, then build to it
 
 ### `08-references/` — everything that was ever sent and filed
-- `reels-and-resources-index.md` — 301 indexed reels, posts and resources
+- `reels-and-resources-index.md` — 305 indexed reels, posts and resources
 - `saved-references-part-1..5.md` — the full archive: design reels, tools, tutorials, audits — each with creator, link, key points, and an honest evidence note (what was verified vs. what is a creator's claim)
 - `websites-and-resources.md` — the standing websites: design libraries, free domains, free hosting, free learning
 
@@ -70,7 +70,7 @@ Every folder below also has **its own detailed README** — what each file is, w
 Real, reusable code: the UI Layouts component collection (61 files), a shipped site's full design system + planning engine + service worker, the stdlib-Python agent system, shipped scroll-effect CSS, and a complete vanilla mini-app. Each piece carries its provenance and verdicts — see `code/README.md`.
 
 ### `projects/` — per-project brains
-29 project records (WhyRisk healthcare ML, the portfolio, Study Hub, Plan Banao, a face + GPS attendance system, five free-API mini-apps, and more): what was built, the decisions, the defects found, and the lessons — the raw material most of the general files above were distilled from.
+31 project records (WhyRisk healthcare ML, the portfolio, Study Hub, Plan Banao, a face + GPS attendance system, five free-API mini-apps, and more): what was built, the decisions, the defects found, and the lessons — the raw material most of the general files above were distilled from.
 
 ---
 

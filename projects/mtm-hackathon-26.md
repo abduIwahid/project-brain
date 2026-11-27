@@ -28,7 +28,7 @@ Abdul Wahid's words: "jeet ke ana hai."
   per-team UNCONFIRMED — confirm before paying). Goal record:
   goal_25461c3563bc (win-mtm-hackathon-26-mind-to-machine).
 - **Registration update (2026-11-11):** a NEW payment route was announced by the
-  organizers — Easypaisa **03038120273 (Iram Khalil)**, replacing the earlier
+  organizers — Easypaisa (the organiser's account), replacing the earlier
   Maleeha bibi number in the handbook. Flow per the announcement: pay → send
   the transaction screenshot to the organizer → they send back a picture → that
   picture is uploaded in the form's payment section. Abdul Wahid paid on 2026-11-11
@@ -199,7 +199,7 @@ package loaded, GitHub/Vercel logged in on the laptop, team briefed on roles
 
 ## Blanks to fill when known
 - Other 2 team members (names, universities, CNICs, WhatsApp numbers): ___
-- Fee basis confirmed (per person / per team): CLOSED — paid 11 Nov via the new organiser route (Easypaisa 03038120273, Iram Khalil); the question is settled by the payment itself. Do not re-ask.
+- Fee basis confirmed (per person / per team): CLOSED — paid 11 Nov via the new organiser route (the organiser's Easypaisa account); the question is settled by the payment itself. Do not re-ask.
 - Problem statement: ___ (18 Nov, 10:00)
 - Permitted tools / rules: ___ (18 Nov)
 - Judging criteria: ___ (18 Nov)
